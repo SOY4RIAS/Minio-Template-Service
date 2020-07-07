@@ -3,4 +3,4 @@
 
 ## Todo
 
-[ ] Create description of this project
+- [ ] Create description of this project
